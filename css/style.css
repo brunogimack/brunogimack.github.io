@@ -1,0 +1,6 @@
+.wallpaper {
+  width: 100%;
+  height: 400px;
+  background: url(../img/wallpaper.jpg) no-repeat center;
+  background-size: auto;
+}
